@@ -1,4 +1,4 @@
-# Khush Dhande Banking System
+# Basic Banking System -Khush Dhande
 Sparks Foundation Internship Project : Basic Banking System  
 A Web Application used to transfer money between multiple users.  
 
